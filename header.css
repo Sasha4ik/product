@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 158, 90);
+}
+.headercont{
+    background-color: #ffffff;
+    padding: 10px 20px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+
+}
+.locationcont{
+    display: flex;
+    
+}
+.img{
+    width: 30px;
+    height: 30px;
+}
+.link{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.arrow{
+    width: 15px;
+    height: 15px;
+}
+#sale{
+    color: red;
+}
